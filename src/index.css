@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(219, 255, 253);
+}
+input{
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(173, 233, 253);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border: 2px solid rgb(184, 181, 181);
+  margin: 10px;
+}
+h1{
+  text-align: center;
+  color: rgb(18, 27, 72);
+  text-decoration: underline;
+}
+button{
+  align-items: center;
+  margin: 20px;
+  height: 40px;
+  width: 160px;
+  border: none;
+  background-color: rgb(8, 106, 186);
+  border-radius: 20px;
+  color: aliceblue;
+  border: 2px solid gray;
+
+
+}
